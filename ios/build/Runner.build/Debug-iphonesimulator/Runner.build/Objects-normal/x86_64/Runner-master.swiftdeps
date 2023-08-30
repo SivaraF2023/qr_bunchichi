@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a5fead6050662af30ab368e9f7b9d5f976d5b68137cccd7539506a3de86b55b4"
+build_start_time: [1693388430, 286149000]
+build_end_time: [1693388430, 315861000]
+inputs:
+  "/Users/sivara/Desktop/bunchichi/qr_bunchichi/ios/Runner/AppDelegate.swift": !private [1678307504, 0]
